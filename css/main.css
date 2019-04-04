@@ -221,7 +221,16 @@ main {
 @media screen and (max-width: 500px) {
   main {
     align-items: center;
-    text-align: center; } }
+    text-align: center; 
+  
+  } 
+  .small-screen {
+    font-size: 4rem;
+    align-items: center;
+    text-align: center;
+  } 
+  
+  }
 
 @media screen and (max-width: 768px) {
   main {
